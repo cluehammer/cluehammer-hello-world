@@ -1,2 +1,2 @@
 # cluehammer-hello-world
-My first Hellow World project repo
+My first Hello World project repo
